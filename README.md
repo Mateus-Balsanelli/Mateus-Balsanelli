@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Mateus-Balsanelli GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mateus-Balsanelli&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Mateus-Balsanelli GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mateus-Balsanelli&show_icons=true&theme=dark" />
 
 </br>
 </br>
