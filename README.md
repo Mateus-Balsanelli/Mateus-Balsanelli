@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.compngimages/789/586png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companiespng"/>
+<img align="left" alt="Vue" width="26px" src="https://en.wikipedia.org/wiki/Vue.js#/media/File:Vue.js_Logo_2.svg"/>
   
 
 </br>
