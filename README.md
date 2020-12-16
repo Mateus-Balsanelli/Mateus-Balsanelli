@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Mateus-Balsanelli GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mateus-Balsanelli&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+<img align="left" alt="Mateus-Balsanelli GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mateus-Balsanelli&show_icons=true&hide_border=true&theme=dark" />
 
 
 [linkedin]: https://www.linkedin.com/in/mateus-antomar-balsanelli-2a4793132/
