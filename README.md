@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Mateus-Balsanelli GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mateus-Balsanelli&show_icons=true&theme=dark" />
 
-</br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 <img align="left" alt="Mateus-Balsanelli Top languages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Balsanelli&theme=dark" />
 
